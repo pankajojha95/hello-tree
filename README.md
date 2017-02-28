@@ -3,7 +3,7 @@ TREE are one of the most truley freind of the world.
 <html>
 <head><title>nayan das</title>
 <body>
- <p>What is JavaScript? 
+ <p>What is JavaScript? <br>
  Javascript is a dynamic computer programming language. 
  It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages.
  It is an interpreted programming language with object-oriented capabilities.  
@@ -13,7 +13,6 @@ TREE are one of the most truley freind of the world.
  The ECMA-262 Specification defined a standard version of the core JavaScript language.</p>
  <br>
   JavaScript is a lightweight, interpreted programming language<br>
-
   Designed for creating network-centric applications.<br>
   Complementary to and integrated with Java.<br>
   Complementary to and integrated with HTML.<br>
