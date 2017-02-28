@@ -12,10 +12,11 @@ TREE are one of the most truley freind of the world.
  The general-purpose core of the language has been embedded in Netscape, Internet Explorer, and other web browsers. 
  The ECMA-262 Specification defined a standard version of the core JavaScript language.</p>
  <br>
-  JavaScript is a lightweight, interpreted programming language.
-  Designed for creating network-centric applications.
-  Complementary to and integrated with Java.
-  Complementary to and integrated with HTML.
+  JavaScript is a lightweight, interpreted programming language<br>
+
+  Designed for creating network-centric applications.<br>
+  Complementary to and integrated with Java.<br>
+  Complementary to and integrated with HTML.<br>
   Open and cross-platform. 
 </body>
  </head>
